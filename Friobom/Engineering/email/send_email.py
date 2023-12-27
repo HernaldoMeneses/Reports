@@ -30,7 +30,7 @@ message.attach(MIMEText(body, 'plain'))
 
 # Anexar a planilha ao e-mail
 path = 'L:\\Friobom\\Engineering\\data\\excel_files\\'
-name = '322_17_3809_d_Venda_Superv_RCA.xlsx'
+name = '322_17_F-3809.xlsx'
 filename = path + name
 
 with open(filename, 'rb') as file:
