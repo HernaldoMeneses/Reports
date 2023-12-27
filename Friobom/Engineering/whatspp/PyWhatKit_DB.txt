@@ -1,0 +1,28 @@
+Date: 14/12/2023
+Time: 10:31
+Phone Number: +5561981111667
+Message: Hello
+--------------------
+Date: 14/12/2023
+Time: 10:36
+Phone Number: +5561981111667
+Message: Hello
+--------------------
+Date: 14/12/2023
+Time: 10:59
+Phone Number: +5561981111667
+Image: perfil.jpeg
+Caption: img
+--------------------
+Date: 14/12/2023
+Time: 11:1
+Phone Number: +5561981111667
+Image: L:\Friobom\Engineering\whatspp\perfil.jpeg
+Caption: img
+--------------------
+Date: 14/12/2023
+Time: 11:2
+Phone Number: +5561981111667
+Image: L:\Friobom\Engineering\whatspp\perfil.jpeg
+Caption: img
+--------------------

@@ -1,0 +1,2 @@
+python whatsapp.py
+pause
