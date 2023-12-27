@@ -2,21 +2,13 @@
 set "source=%cd%"
 set "HD=%source:~0,2%"
 
-set "conex=\Friobom\Engineering\conex"
-set "email=\Friobom\Engineering\email"
+set "Adm=\GitHub\Reports\Friobom\Adm"
 
-cd %HD%%conex%
+
+cd %HD%%Adm%
 %HD%
-call conex.cmd
+
+call init.cmd
+
 pause
 
-cd %HD%%email%
-%HD%
-call send.cmd
-pause
-
-rem Bugada
-rem cd L:\Friobom\Engineering\R
-rem L:
-rem call rscript.cmd
-rem pause
