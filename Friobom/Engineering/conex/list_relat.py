@@ -9,13 +9,13 @@ report_others = ['324_P2']
 for item in list_CodFornec:
     #report_list_322_06 = ['322_17_F-3809', '322_06_F-3114']
     new = ''
-    new = '322_06_F-' + item
+    new = item + '-322_06_F'
     report_list_322_06.append(new)
     new = ''
-    new = '322_17_F-' + item
+    new = item + '-322_17_F'
     report_list_322_17.append(new)
     new = ''
-    new = '227_F-' + item
+    new = item + '-227_F'
     report_list_227.append(new)
 
 report_list_322 = report_list_322_06 + report_list_322_17    
